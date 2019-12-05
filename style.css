@@ -1,0 +1,65 @@
+body {
+   margin: 0;
+   padding: 0;
+   height: 100vh;
+   font-size: 25px;
+}
+
+#container1 {
+   display: flex;
+   justify-content: center;
+   padding-top: 100px;
+}
+
+#container2 {
+   display: flex;
+   justify-content: center;
+   padding-top: 100px;
+}
+
+#container3 {
+   display: flex;
+   justify-content: center;
+   padding-top: 100px;
+}
+
+#texteEntreeAleatoire {
+   text-align: center;
+   line-height: 35px;
+}
+
+
+
+#container4 {
+   display: flex;
+   justify-content: center;
+   padding-top: 50px;
+}
+
+#texteEntree5 {
+   text-align: center;
+   line-height: 35px;
+}
+
+
+
+
+
+#container5 {
+   display: flex;
+   justify-content: center;
+   padding-top: 50px;
+   padding-bottom: 20px;;
+}
+
+.btn {
+   height: 80px;
+   width: 150px;
+}
+
+
+#container6 {
+   display: flex;
+   justify-content: center;
+   
+}
